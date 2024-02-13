@@ -319,6 +319,7 @@ class _SignUpScreen2State extends State<SignUpScreen2> {
                             ),
                           );
                         },
+                        //This is the signin text button
                         child: Text(
                           "SIGNIN",
                           style: TextStyle(
